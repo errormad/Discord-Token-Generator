@@ -8,6 +8,7 @@ from json import dumps
 import json
 import os
 import random
+from discord_webhook import DiscordWebhook
 
 
 headers = {
